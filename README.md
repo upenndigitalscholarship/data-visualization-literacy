@@ -1,7 +1,7 @@
 # What’s Going On in this Graph? An Environmental Data Visualization Literacy Workshop With R and RStudio
 
-* Workshop Recording: https://upenn.zoom.us/rec/share/zTLN643RrmhWjWQrXz3apFMck7IjSdWFTn2RyPYg1dzOR3FzKYxXytzNWQBlunKF.r0ei-YswoTfXCnfu
 * Workshop Blogpost: https://www.library.upenn.edu/blogs/rdds/env-data-viz-literacy
+* Workshop Recording: https://upenn.zoom.us/rec/share/zTLN643RrmhWjWQrXz3apFMck7IjSdWFTn2RyPYg1dzOR3FzKYxXytzNWQBlunKF.r0ei-YswoTfXCnfu
 
 Data journalism is increasingly used to help the public understand complex scientific and social issues, but what makes an effective data visualization?  What techniques should we employ to create compelling graphs and tell better stories?  Using environmental data, we examine a set of real-world figures and graphs to identify techniques commonly used in data journalism and explore how to thoughtfully incorporate them into our work. Then we recreate them responsibly and reproducibly using the R Programming language. The session also aimed to be mindful of ignored voices and privileged perspectives especially when it comes to data visualization concerning environmental issues. 
 
