@@ -1,8 +1,5 @@
 # What’s Going On in this Graph? An Environmental Data Visualization Literacy Workshop With R and RStudio
 
-* Workshop Blogpost: https://www.library.upenn.edu/blogs/rdds/env-data-viz-literacy
-* Workshop Recording: https://upenn.zoom.us/rec/share/zTLN643RrmhWjWQrXz3apFMck7IjSdWFTn2RyPYg1dzOR3FzKYxXytzNWQBlunKF.r0ei-YswoTfXCnfu
-
 Data journalism is increasingly used to help the public understand complex scientific and social issues, but what makes an effective data visualization?  What techniques should we employ to create compelling graphs and tell better stories?  Using environmental data, we examine a set of real-world figures and graphs to identify techniques commonly used in data journalism and explore how to thoughtfully incorporate them into our work. Then we recreate them responsibly and reproducibly using the R Programming language. The session also aimed to be mindful of ignored voices and privileged perspectives especially when it comes to data visualization concerning environmental issues. 
 
 While this themed session focused on environmental data, the concepts here are transferrable and applicable to a wide range of subjects where data plays an important role in understanding research outcomes, information diffusion, media literacy, etc.
@@ -15,6 +12,9 @@ The participants were given the space to brainstorm and discuss visualizations a
 * What’s going on in this graph? What story can it tell?
 * What could be improved upon? If anything?
 
+Learn more: 
+* Workshop Blogpost: https://www.library.upenn.edu/blogs/rdds/env-data-viz-literacy
+* Workshop Recording: https://upenn.zoom.us/rec/share/zTLN643RrmhWjWQrXz3apFMck7IjSdWFTn2RyPYg1dzOR3FzKYxXytzNWQBlunKF.r0ei-YswoTfXCnfu
 
 # Credits
 Created by [Jajwalya Karajgikar](https://www.library.upenn.edu/people/staff/jajwalya-karajgikar)
